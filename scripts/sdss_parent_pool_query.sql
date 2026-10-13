@@ -1,0 +1,4 @@
+-- Instructor provenance file for Lab 09.
+-- Replace this comment with the exact SDSS query used to create
+-- data/teaching/sdss_parent_pool.csv.
+-- Do not distribute a parent-pool CSV without the exact query and DR/table versions.

@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+astropy
+astroquery
+scikit-learn
+emcee
+corner
+pyarrow
+requests
+jupyter
+nbformat
