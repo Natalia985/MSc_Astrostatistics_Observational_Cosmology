@@ -47,6 +47,29 @@ There are **11 weekly lab notebooks**. Six are **graded labs** and replace separ
 
 See `docs/DATA_SOURCES.md`.
 
+## Weekly learning structure
+
+Each week has three linked components:
+
+1. **Lecture** — cosmology-focused theory and derivation in `lectures/`.
+2. **Learning Notebook** — selected material from the [2025 Astrostatistics Summer School](https://github.com/lionandjelka/2025_summer_school).
+3. **Hands-on Lab** — real observational data in `labs/`.
+
+See [`docs/LECTURES_AND_CRETE.md`](docs/LECTURES_AND_CRETE.md) for the exact week-by-week map.
+
+### Example
+
+**Week 3**
+
+- Lecture: `lectures/W03_OPTIMIZATION_LIKELIHOOD_AND_MLE.ipynb`
+- Learning notebooks:
+  - [Crete Optimization](https://github.com/lionandjelka/2025_summer_school/blob/main/03_Optimization/Optimization.ipynb)
+  - [Crete MLE](https://github.com/lionandjelka/2025_summer_school/blob/main/04_MLE/MLE.ipynb)
+- Lab: `labs/L03_COSMOLOGICAL_LIKELIHOOD.ipynb`
+
+The Crete notebooks teach the **general statistical method**; the course lab applies it to **real cosmological observations**.
+
+
 ## Weekly labs
 
 | Week | Lab | Status |
