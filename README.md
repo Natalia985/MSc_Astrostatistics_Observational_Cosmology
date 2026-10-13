@@ -46,6 +46,47 @@ There are **11 weekly lab notebooks**. Six are **graded labs** and replace separ
 - DESI BAO public cosmology products
 
 See `docs/DATA_SOURCES.md`.
+## Central scientific case study
+
+Throughout the course, we will return to the recent paper:
+
+**Rueda-Blanco, Higuera-G. & Delgado-Correal (2026), arXiv:2608.23579**
+
+https://arxiv.org/abs/2608.23579
+
+The paper combines Type Ia supernova and quasar information in a cosmological reconstruction and develops a photometrically selected AGN “golden sample”.
+
+We will use this paper as a **running case study in statistical reasoning, calibration, multivariate selection, and cosmological inference**, rather than as an unquestioned reference result.
+
+In particular, we will examine:
+
+- which quantities are directly observed;
+- which quantities are derived or calibrated;
+- how nuisance and cosmological parameters enter the model;
+- how the SN Ia and QSO likelihoods are combined;
+- where sample selection enters;
+- how multivariate photometric similarity is defined;
+- the distinction between **statistical representativeness** and **physical standardisation**;
+- possible circularity when sample selection depends on a cosmologically calibrated relation;
+- what conclusions are supported by the data and what conclusions would require further physical validation.
+
+### When will we use the paper?
+
+You are **not expected to understand the full methodology at the beginning of the course**.
+
+The statistical tools needed to analyse the paper are developed progressively:
+
+- **Weeks 1–2:** probability, distributions, sampling, hypothesis testing and resampling;
+- **Week 3:** likelihood and maximum-likelihood estimation;
+- **Week 4:** Bayesian inference and marginalisation;
+- **Week 5:** MCMC, nuisance parameters and covariance;
+- **Week 6:** selection effects and observational robustness;
+- **Week 7:** real AGN time-series inference;
+- **Week 8:** critical reconstruction of the SN Ia–QSO methodology;
+- **Week 9:** multivariate SDSS AGN selection;
+- **Week 11:** multi-probe cosmological inference.
+
+By Week 8, you should be able to read the paper not only as an astronomy paper, but as a complete statistical inference pipeline.
 
 ## Weekly learning structure
 
